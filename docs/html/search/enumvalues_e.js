@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['saturated',['Saturated',['../namespaceNDI_1_1CapiSample_1_1Data.html#a5bdd244c85df22cbcd881d942471a595af4c52f89cd8b0f92a4b770d2c1280f24',1,'NDI::CapiSample::Data']]],
+  ['saturatedoutofvolume',['SaturatedOutOfVolume',['../namespaceNDI_1_1CapiSample_1_1Data.html#a5bdd244c85df22cbcd881d942471a595a5cccfb488108e11b2f80ebb9540e9870',1,'NDI::CapiSample::Data']]],
+  ['scudisconnected',['ScuDisconnected',['../namespaceNDI_1_1CapiSample_1_1Data.html#ad8397722b3cff95bce3f02774bc5622ea73086f25828625b326c1c057d1954784',1,'NDI::CapiSample::Data']]],
+  ['sensor0temp',['Sensor0Temp',['../namespaceNDI_1_1CapiSample_1_1Data.html#a096caf66cb8f24696213967ea5e3797fa12837feace67032fae8401263085cc22',1,'NDI::CapiSample::Data']]],
+  ['sensor1temp',['Sensor1Temp',['../namespaceNDI_1_1CapiSample_1_1Data.html#a096caf66cb8f24696213967ea5e3797fa38c79b2724821e219c54fe6b8dea38b5',1,'NDI::CapiSample::Data']]],
+  ['sensorconfig',['SensorConfig',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#ab6a2f541f81a8d82d827a84d66262de9a0df0ffafe4ca0498d037208cffe648f5',1,'NDI::CapiSample::Protocol']]],
+  ['sensormalfunction',['SensorMalfunction',['../namespaceNDI_1_1CapiSample_1_1Data.html#a096caf66cb8f24696213967ea5e3797fadb7eb6bf273da279f550c637986e7554',1,'NDI::CapiSample::Data']]],
+  ['sensorparameter',['SensorParameter',['../namespaceNDI_1_1CapiSample_1_1Data.html#a096caf66cb8f24696213967ea5e3797fabde6f97694bbf32e69560cd8fac6425f',1,'NDI::CapiSample::Data']]],
+  ['sensorvoltage',['SensorVoltage',['../namespaceNDI_1_1CapiSample_1_1Data.html#a096caf66cb8f24696213967ea5e3797fa05e34899f32bedceecb545e80b70d938',1,'NDI::CapiSample::Data']]],
+  ['shortreply',['ShortReply',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#a586e9c5fa609c9ac8ea1efb4fb704931a58c25a20c536e36eb94a2e94e657adaf',1,'NDI::CapiSample::Protocol']]],
+  ['siupluggedin',['SiuPluggedIn',['../namespaceNDI_1_1CapiSample_1_1Data.html#a73dcf9dc758f9392db008b4d78b7a6a6acf42bfaf16a52378236124d4233cf168',1,'NDI::CapiSample::Data']]],
+  ['siuunplugged',['SiuUnplugged',['../namespaceNDI_1_1CapiSample_1_1Data.html#a73dcf9dc758f9392db008b4d78b7a6a6ae2779438f2c1d1361b5c8e53cce9db69',1,'NDI::CapiSample::Data']]],
+  ['six',['Six',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#acabd1db1cf3bbd0f57f2d24443b2c40bae6fbc0b9673f8c86726688d7607fc8f5',1,'NDI::CapiSample::Protocol']]],
+  ['softwaredefined',['SoftwareDefined',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#ac183d1ac572059b4170e9d113cdfb1d5a00908fc0d989182ca8d16ef3dffc2d00',1,'NDI::CapiSample::Protocol']]],
+  ['storagetempexceeded',['StorageTempExceeded',['../namespaceNDI_1_1CapiSample_1_1Data.html#ad8397722b3cff95bce3f02774bc5622ea6e5abb821d8cca7e28e00076757e41a8',1,'NDI::CapiSample::Data']]],
+  ['strayactivemarkerdata',['StrayActiveMarkerData',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#ab301a755f600f4b3065543d30fd61ff7a8fca50fac8168a2059b8b32425b729d4',1,'NDI::CapiSample::Protocol']]],
+  ['straypassivemarkerdata',['StrayPassiveMarkerData',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#ab301a755f600f4b3065543d30fd61ff7a5f75027b4d2a56cd58ae704d8f06c782',1,'NDI::CapiSample::Protocol']]],
+  ['streamreply',['StreamReply',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#a586e9c5fa609c9ac8ea1efb4fb704931aff70b9e17499f1d39771257eebc87c16',1,'NDI::CapiSample::Protocol']]],
+  ['switch1closed',['Switch1Closed',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#a7e8b2a69ccaed8ab165011ca079257c7ad7925c536b253764209a6b4e39396be5',1,'NDI::CapiSample::Protocol']]],
+  ['switch2closed',['Switch2Closed',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#a7e8b2a69ccaed8ab165011ca079257c7a94fffdb18cb441afbf60a7e0c5c1cb08',1,'NDI::CapiSample::Protocol']]],
+  ['switch3closed',['Switch3Closed',['../namespaceNDI_1_1CapiSample_1_1Protocol.html#a7e8b2a69ccaed8ab165011ca079257c7a787275b79d7a8a6ee478784756ac0b00',1,'NDI::CapiSample::Protocol']]],
+  ['systemalert',['SystemAlert',['../namespaceNDI_1_1CapiSample_1_1Protocol_1_1GBF.html#a055834992c2b0d090e216654bf2919dea6f008bb2fdba041de23460d79dd234f7',1,'NDI::CapiSample::Protocol::GBF']]]
+];
