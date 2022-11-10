@@ -94,9 +94,9 @@ namespace Comunicacion
         public  void log(string message)
         {
             string time = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ss.fffZ");
-            Console.WriteLine(time + " [CAPISample] " + message);
+            Console.WriteLine(time + " [CAPISample] " + message.ToLower());
 
-            string mensaje = (time + " [CAPISample] " + message);
+            string mensaje = (time + " [CAPISample] " + message.ToUpper());
             txt.Text = txt.Text + mensaje + '\r';
 
         }

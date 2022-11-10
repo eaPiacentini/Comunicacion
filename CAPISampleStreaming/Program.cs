@@ -37,7 +37,7 @@ namespace NDI.CapiSampleStreaming
             string host = "P9-01009";
             if (host.Length > 0)
             {
-                host = args[0];
+                host = host; //args[0];
             }
             else
             {
